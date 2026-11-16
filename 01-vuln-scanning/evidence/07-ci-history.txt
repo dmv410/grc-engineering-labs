@@ -1,0 +1,3 @@
+completed	success	fix: return to a current Alpine base and non-root user to clear criti…	container-scan	main	push	43780768483	2026-11-16T00:30:25Z
+completed	failure	test: switch to end-of-life node:14 to prove the gate blocks critical…	container-scan	main	push	43780354159	2026-11-16T00:26:15Z
+completed	success	ci: add container scan gate that fails on critical CVEs (RA-5, SA-11,…	container-scan	main	push	43779703142	2026-11-16T00:19:40Z
